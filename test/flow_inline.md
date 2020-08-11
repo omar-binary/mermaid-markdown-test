@@ -11,6 +11,7 @@ graph TD;
     W-->D;
     E-->S;
     D-->T;
+    X-->Y;
 ```
 
 Goal: comment out the above, insert image ref
@@ -22,5 +23,5 @@ graph TD;
     B-->D;
     C-->D;
     W-->D;
-    E-->Z;
+    Some-->VOME;
 ```
