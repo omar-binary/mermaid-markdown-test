@@ -10,7 +10,7 @@ graph TD;
     C-->D;
     W-->D;
     E-->S;
-    D-->T;
+    D-->X;
 ```
 
 Goal: comment out the above, insert image ref
@@ -22,5 +22,5 @@ graph TD;
     B-->D;
     C-->D;
     W-->D;
-    E-->Z;
+    E-->X;
 ```
