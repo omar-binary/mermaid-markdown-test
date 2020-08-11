@@ -5,6 +5,10 @@ on:
     paths:
       - '**/*.mermaid'
       - '**/*.md'
+  pull_request:
+    paths:
+      - '**/*.mermaid'
+      - '**/*.md'
 
 jobs:
   build:
