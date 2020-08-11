@@ -19,8 +19,8 @@ Goal: comment out the above, insert image ref
 graph TD;
     A-->B;
     A-->C;
-    B-->D;
-    C-->D;
-    W-->D;
+    B-->DC;
+    C-->DD;
+    W-->DD;
     E-->ZZ;
 ```
