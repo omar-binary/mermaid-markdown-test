@@ -6,11 +6,11 @@ Here is an inline mermaid file
 graph TD;
     A-->B;
     A-->C;
-    B-->DD;
+    B-->D;
     C-->D;
     W-->D;
     E-->S;
-    D-->TT;
+    D-->T;
 ```
 
 Goal: comment out the above, insert image ref
@@ -19,8 +19,8 @@ Goal: comment out the above, insert image ref
 graph TD;
     A-->B;
     A-->C;
-    B-->DC;
-    C-->DD;
-    W-->DD;
-    E-->ZZ;
+    B-->D;
+    C-->D;
+    W-->D;
+    E-->Z;
 ```
